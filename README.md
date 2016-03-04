@@ -1,0 +1,1 @@
+The Ball Bot project is modeled after [Sphero SPRK](http://store.sphero.com/collections/sprk-home) a programmable ball robot. The purpose of this project is to teach robotics and basic programming using the platform we have created.
